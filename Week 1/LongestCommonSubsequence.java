@@ -1,8 +1,6 @@
 
 // Given two Strings A and B. Find the length of the Longest Common Subsequence
 // (LCS) of the given Strings. Input: A = Minneapolis, B = Minnesota.
-import java.util.Collections;
-
 public class LongestCommonSubsequence {
 
     public static int lcs(char[] str1, char[] str2, int s1, int s2) {
