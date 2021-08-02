@@ -1,0 +1,2 @@
+* If PROCESSOR is coded as D4F3C5C1E1S1S1E3C6, what is the code for QUADRANT?
+  * Q1G3A1B2F3A1B7E4
